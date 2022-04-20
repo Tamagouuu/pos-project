@@ -1,0 +1,10 @@
+input[type="number"] {
+  text-align: center;
+  width: 50px;
+}
+
+@media (max-width: 992px) {
+  .img-product {
+    width: 270px;
+  }
+}
